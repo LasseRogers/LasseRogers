@@ -7,6 +7,7 @@
 ![Rust](https://img.shields.io/badge/Rust-1E1E1E?logo=rust&logoColor=DEA584)
 ![Lua](https://img.shields.io/badge/Lua-1E1E1E?logo=lua&logoColor=5C5DC2)
 ![Bash](https://img.shields.io/badge/Bash-1E1E1E?logo=gnubash&logoColor=4EAA25)
+![C++](https://img.shields.io/badge/C%2B%2B-1E1E1E?logo=cplusplus&logoColor=659AD2)
 ![CUDA](https://img.shields.io/badge/CUDA-1E1E1E?logo=nvidia&logoColor=76B900)
 
 #### Tools & Infrastructure
@@ -16,3 +17,4 @@
 ![Linux](https://img.shields.io/badge/Linux-1E1E1E?logo=linux&logoColor=FCC624)
 ![Neovim](https://img.shields.io/badge/Neovim-1E1E1E?logo=neovim&logoColor=57A143)
 ![uv](https://img.shields.io/badge/uv-1E1E1E?logo=uv&logoColor=DE5FE9)
+![CMake](https://img.shields.io/badge/CMake-1E1E1E?logo=cmake&logoColor=1E88E5)
